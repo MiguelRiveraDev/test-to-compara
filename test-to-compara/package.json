@@ -4,7 +4,7 @@
   "description": "It's a test for the developer position",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "./node_modules/.bin/mocha test-app-chai-assert/*.js"
   },
   "repository": {
     "type": "git",
